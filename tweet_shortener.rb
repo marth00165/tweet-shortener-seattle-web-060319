@@ -25,6 +25,8 @@ def word_substituter(tweet)
       yusuke << dictionary[word]
     else
       yusuke << word 
+    end
+    
   
   
   
