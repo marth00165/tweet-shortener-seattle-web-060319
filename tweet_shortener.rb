@@ -28,7 +28,10 @@ def word_substituter(tweet)
     end
   end
   yusuke.join(" ")
-  
+end
+
+
+
   
   
   
