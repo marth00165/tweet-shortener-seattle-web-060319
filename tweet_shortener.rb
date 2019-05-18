@@ -31,7 +31,8 @@ def word_substituter(tweet)
 end
 
 def bulk_tweet_shorterner(kuabara)
-  kuabara.each do |word|
+  kuabara.each do |newWord|
+    
 
 
   
