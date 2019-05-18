@@ -30,6 +30,7 @@ def word_substituter(tweet)
   yusuke.join(" ")
 end
 
+def bulk_tweet_shorterner
 
 
   
