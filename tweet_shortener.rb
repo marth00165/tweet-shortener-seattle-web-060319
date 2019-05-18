@@ -17,7 +17,7 @@ end
 
 
 def word_substituter(tweet)
-  h
+  hiei = []
   
   
   
