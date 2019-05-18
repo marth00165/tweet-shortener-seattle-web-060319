@@ -21,7 +21,7 @@ def word_substituter(tweet)
   yusuke = []
   
   hiei.each do |word|
-    if kurama
+    if kurama.keys.include?
   
   
   
