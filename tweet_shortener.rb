@@ -26,7 +26,9 @@ def word_substituter(tweet)
     else
       yusuke << word 
     end
-    
+  end
+  yusuke.join(" ")
+  
   
   
   
