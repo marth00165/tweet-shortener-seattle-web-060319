@@ -13,4 +13,6 @@ def dictionary
     "and" => "&"
   }
   
-  
+end
+
+
