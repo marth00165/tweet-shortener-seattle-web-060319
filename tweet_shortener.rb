@@ -18,6 +18,7 @@ end
 
 def word_substituter(tweet)
   hiei = tweet.split(" ")
+  yuske
   
   
   
