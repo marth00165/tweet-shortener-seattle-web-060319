@@ -30,7 +30,8 @@ def word_substituter(tweet)
   yusuke.join(" ")
 end
 
-def bulk_tweet_shorterner
+def bulk_tweet_shorterner(kuabara)
+  kuabara.each do |word|
 
 
   
