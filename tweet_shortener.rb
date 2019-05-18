@@ -20,7 +20,8 @@ def word_substituter(tweet)
   hiei = tweet.split(" ")
   yusuke = []
   
-  hiei.each do ||
+  hiei.each do |word|
+    
   
   
   
