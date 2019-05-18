@@ -22,7 +22,9 @@ def word_substituter(tweet)
   
   hiei.each do |word|
     if kurama.keys.include?(word)
-      yusuke << word
+      yusuke << dictionary[word]
+    else
+      yusuke << word 
   
   
   
