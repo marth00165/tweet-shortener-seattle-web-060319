@@ -37,7 +37,7 @@ def bulk_tweet_shorterner(kuabara)
 end
 
 def selective_tweet_shortener(fox)
-  
+  if tweet
 
 
   
