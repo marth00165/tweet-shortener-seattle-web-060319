@@ -41,7 +41,10 @@ def selective_tweet_shortener(fox)
     fox
   else
     word_substituter(fox)
-    
+  end
+  
+  
+  def 
 
 
   
