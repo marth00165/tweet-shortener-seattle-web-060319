@@ -33,7 +33,11 @@ end
 def bulk_tweet_shorterner(kuabara)
   kuabara.each do |newWord|
     puts word_substituter(newWord)
-    
+  end
+end
+
+def selective_tweet_shortener(fox)
+  
 
 
   
