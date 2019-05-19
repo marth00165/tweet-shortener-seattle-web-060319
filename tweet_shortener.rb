@@ -39,6 +39,8 @@ end
 def selective_tweet_shortener(fox)
   if fox.length < 140
     fox
+  else
+    word_substituter(fox)
     
 
 
