@@ -45,7 +45,7 @@ def selective_tweet_shortener(fox)
   
   
   def shortened_tweet_truncator(tweet)
-    if tweet.length <
+    if word_substituter(tweet)
 
 
   
